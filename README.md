@@ -38,8 +38,8 @@ Dashboard 2 – Customer & Category Analysis
 
 1. Sales Overview Dashboard
 
-"Sales Overview" (Screenshots 2026-06-14 130114.png)
+"Sales Overview" (Screenshots%2026-06-14%130114.png)
 
 2. Customer Analysis Dashboard
 
-"Customer Analysis" (Screenshots 2026-06-14 130148.png)
+"Customer Analysis" (Screenshots%2026-06-14%130148.png)
