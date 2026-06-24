@@ -1,43 +1,187 @@
-📊 Project Name: Sales Analytics Dashboard
+# 📊 Sales Analytics Dashboard
 
-📝 Project Overview
-This project is an interactive Sales Analytics Dashboard built in Power BI to monitor business performance across products, customers, categories, and regions. The dashboard helps analyze sales quantity, revenue, orders, and customer activity, enabling data-driven decision-making and performance tracking.
+---
 
-🚀 Key Features & Insights
-- Tracked Total Products Sold, Revenue, Orders, and Customers using KPI Cards.
-- Compared product categories (Office, Accessories, Electronics) across different states using Clustered Bar Charts.
-- Analyzed product sales and order trends through Area Charts and Column Charts.
-- Evaluated customer purchasing behavior using Customer-wise Sales Analysis.
-- Visualized category distribution with Donut Charts and product performance with Scatter Charts.
-- Included detailed transaction-level data for deeper analysis and validation.
+## 📝 Project Overview
 
-📊 Dashboard Visualizations
-Dashboard 1 – Sales Overview
+The Sales Analytics Dashboard was developed to provide a comprehensive view of business performance across products, customers, categories, and geographic regions. The dashboard transforms raw sales data into actionable insights, helping organizations monitor revenue, track customer activity, evaluate product performance, and optimize sales strategies.
 
-- KPI Cards: Total Products Sold, Revenue, Orders, Customers
-- Clustered Bar Chart: Category-wise sales comparison by state
-- Area Chart: Product sold vs order trends
-- Column Chart: Quantity distribution
-- Data Table: Order-level sales details
+Using interactive Power BI visualizations, stakeholders can analyze sales trends, customer purchasing behavior, and category performance to support data-driven business decisions.
 
-Dashboard 2 – Customer & Category Analysis
+---
 
-- KPI Cards and Revenue Gauge
-- Scatter Chart: Product sales performance analysis
-- Donut Chart: Category-wise product distribution
-- Customer-wise Trend Chart: Sales quantity by customer
+## 🚀 Key Features & Insights
 
-🛠️ Tech Stack Used
+### 💰 Sales Performance Monitoring
+- Track Total Revenue, Orders, Customers, and Products Sold.
+- Monitor business growth through KPI metrics.
+- Identify high-performing products and categories.
+
+### 📦 Product & Category Analysis
+- Compare product categories across different regions.
+- Analyze product sales distribution.
+- Evaluate category contribution to overall revenue.
+
+### 👥 Customer Behavior Analysis
+- Track customer purchasing activity.
+- Analyze customer-wise sales performance.
+- Identify valuable and high-frequency customers.
+
+### 🌎 Regional Performance Tracking
+- Compare sales performance across states.
+- Monitor geographic demand patterns.
+- Support regional sales optimization.
+
+---
+
+# 📊 Dashboard 1: Sales Overview
+
+### Visuals Included
+
+#### 🔹 KPI Cards
+Displays key business metrics:
+- Total Products Sold
+- Total Revenue
+- Total Orders
+- Total Customers
+
+#### 🔹 Category-Wise Sales by State
+Clustered bar chart comparing:
+- Office Products
+- Accessories
+- Electronics
+- State-wise sales performance
+
+#### 🔹 Product Sold vs Order Trends
+Area chart visualizing:
+- Product sales trends
+- Order volume patterns
+- Business growth indicators
+
+#### 🔹 Quantity Distribution Analysis
+Column chart displaying:
+- Product quantity sold
+- Sales distribution trends
+- Inventory movement insights
+
+#### 🔹 Sales Data Table
+Detailed transaction-level table containing:
+- Order Details
+- Product Information
+- Sales Records
+- Revenue Metrics
+
+### 📷 Dashboard Screenshot
+
+![Sales Overview Dashboard](Screenshot%202026-06-14%20130114.png)
+
+---
+
+# 📊 Dashboard 2: Customer & Category Analysis
+
+### Visuals Included
+
+#### 🔹 Revenue KPI & Performance Indicators
+Tracks:
+- Revenue Metrics
+- Customer Activity
+- Sales Performance Indicators
+
+#### 🔹 Product Performance Analysis
+Scatter chart showing:
+- Product sales distribution
+- Revenue contribution
+- Performance comparison
+
+#### 🔹 Category Distribution
+Donut chart displaying:
+- Category-wise product share
+- Sales contribution by category
+- Product segmentation insights
+
+#### 🔹 Customer-Wise Sales Analysis
+Trend chart visualizing:
+- Sales quantity by customer
+- Customer purchasing behavior
+- Customer performance trends
+
+### 📷 Dashboard Screenshot
+
+![Customer Analysis Dashboard](Screenshot%202026-06-14%20130148.png)
+
+---
+
+## 🛠️ Tech Stack
 
 - Power BI Desktop
 - Power Query
-- DAX Measures
+- DAX (Data Analysis Expressions)
 - Excel Dataset
+- Data Modeling & Relationships
 
-📷 Dashboard Screenshots
+### Key DAX Metrics
 
-1. Sales Overview Dashboard
-<img src="Screenshot 2026-06-14 130114.png" width="100%">
+- Total Revenue
+- Total Orders
+- Total Customers
+- Total Products Sold
+- Category Performance Metrics
+- Customer Sales Analysis
+- Regional Sales Distribution
 
-### 2. Customer Analysis Dashboard
-<img src="Screenshot 2026-06-14 130148.png" width="100%">
+---
+
+## 📂 Dataset
+
+The dataset contains sales and customer records including:
+
+- Product Information
+- Customer Details
+- Sales Revenue
+- Order Data
+- Product Categories
+- Regional Information
+- Quantity Sold
+- Transaction Records
+
+---
+
+## 📈 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Calculations
+- Sales Analytics
+- Customer Analytics
+- Revenue Analysis
+- KPI Development
+- Interactive Dashboard Design
+- Business Intelligence Reporting
+
+---
+
+## 🎯 Business Value
+
+✅ Monitor overall business sales performance
+
+✅ Analyze customer purchasing behavior
+
+✅ Compare category-wise sales performance
+
+✅ Track regional sales trends
+
+✅ Identify high-performing products
+
+✅ Support data-driven business decisions
+
+---
+
+## 🔗 Project Link
+
+### GitHub Repository
+
+👉 https://github.com/palaktonke06-a11y/Sales-Power-bi-Dashboard
+
+---
+
+⭐ If you found this project useful, don't forget to star the repository.
